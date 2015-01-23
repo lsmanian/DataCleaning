@@ -1,6 +1,6 @@
 #Code Book for Human Activity Analysis                
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 
 ##Observation Field/Column Details
 
@@ -74,7 +74,7 @@
 "angle.Y.gravityMean."                
 "angle.Z.gravityMean."*
   
-##**Std.Deviation of various observations **
+## **Std.Deviation of various observations **
 
 
 *"tBodyAcc.std...X"                    
