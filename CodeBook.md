@@ -73,8 +73,9 @@
 "angle.X.gravityMean."                
 "angle.Y.gravityMean."                
 "angle.Z.gravityMean."*
+
   
-## **Std.Deviation of various observations **
+## Std.Deviation of various observations 
 
 
 *"tBodyAcc.std...X"                    
